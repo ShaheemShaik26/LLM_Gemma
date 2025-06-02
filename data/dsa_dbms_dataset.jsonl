@@ -1,0 +1,20 @@
+{"instruction": "Explain the difference between a stack and a queue.", "input": "", "output": "This is a detailed, human-written answer to: Explain the difference between a stack and a queue."}
+{"instruction": "Write a Python function to reverse a linked list.", "input": "", "output": "This is a detailed, human-written answer to: Write a Python function to reverse a linked list."}
+{"instruction": "What is the time complexity of quicksort?", "input": "", "output": "This is a detailed, human-written answer to: What is the time complexity of quicksort?"}
+{"instruction": "Explain binary search with an example.", "input": "", "output": "This is a detailed, human-written answer to: Explain binary search with an example."}
+{"instruction": "How does a hash table resolve collisions?", "input": "", "output": "This is a detailed, human-written answer to: How does a hash table resolve collisions?"}
+{"instruction": "Write code for a depth-first search in a graph.", "input": "", "output": "This is a detailed, human-written answer to: Write code for a depth-first search in a graph."}
+{"instruction": "What is dynamic programming? Give an example.", "input": "", "output": "This is a detailed, human-written answer to: What is dynamic programming? Give an example."}
+{"instruction": "What are the advantages of merge sort?", "input": "", "output": "This is a detailed, human-written answer to: What are the advantages of merge sort?"}
+{"instruction": "Explain Big O notation.", "input": "", "output": "This is a detailed, human-written answer to: Explain Big O notation."}
+{"instruction": "What is a binary heap used for?", "input": "", "output": "This is a detailed, human-written answer to: What is a binary heap used for?"}
+{"instruction": "What is normalization in DBMS?", "input": "", "output": "This is a detailed, human-written answer to: What is normalization in DBMS?"}
+{"instruction": "Explain 1NF, 2NF, and 3NF with examples.", "input": "", "output": "This is a detailed, human-written answer to: Explain 1NF, 2NF, and 3NF with examples."}
+{"instruction": "Write an SQL query to fetch the second highest salary.", "input": "", "output": "This is a detailed, human-written answer to: Write an SQL query to fetch the second highest salary."}
+{"instruction": "What is the difference between a primary key and a foreign key?", "input": "", "output": "This is a detailed, human-written answer to: What is the difference between a primary key and a foreign key?"}
+{"instruction": "Explain ACID properties in database transactions.", "input": "", "output": "This is a detailed, human-written answer to: Explain ACID properties in database transactions."}
+{"instruction": "How does indexing improve query performance?", "input": "", "output": "This is a detailed, human-written answer to: How does indexing improve query performance?"}
+{"instruction": "What is a view in SQL?", "input": "", "output": "This is a detailed, human-written answer to: What is a view in SQL?"}
+{"instruction": "Write an SQL query to get the count of employees in each department.", "input": "", "output": "This is a detailed, human-written answer to: Write an SQL query to get the count of employees in each department."}
+{"instruction": "What is the difference between DELETE and TRUNCATE?", "input": "", "output": "This is a detailed, human-written answer to: What is the difference between DELETE and TRUNCATE?"}
+{"instruction": "Explain ER diagrams and their components.", "input": "", "output": "This is a detailed, human-written answer to: Explain ER diagrams and their components."}
